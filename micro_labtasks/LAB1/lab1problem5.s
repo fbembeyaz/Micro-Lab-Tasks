@@ -1,7 +1,7 @@
 /*
  * asm.s
  *
- * author: Furkan Cayci
+ * author: Furkan
  *
  * description: Added the necessary stuff for turning on the green LED on the
  *   G031K8 Nucleo board. Mostly for teaching.
